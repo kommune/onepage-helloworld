@@ -1,0 +1,11 @@
+{
+  "name": "one-page-hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "nodemon": "^1.14.11"
+  }
+}
